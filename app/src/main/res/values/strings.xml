@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuikLite</string>
+    <string name="title_people">People</string>
+    <string name="title_shifts">Shifts</string>
+    <string name="field_name">name</string>
+    <string name="field_age">age</string>
+    <string name="field_rating">rating</string>
+</resources>
